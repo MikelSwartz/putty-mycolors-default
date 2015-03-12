@@ -64,7 +64,7 @@ Windows Registry Editor Version 5.00
 "BackspaceIsDelete"=dword:00000000
 "RXVTHomeEnd"=dword:00000000
 "LinuxFunctionKeys"=dword:00000004
-"NoApplicationKeys"=dword:00000000
+"NoApplicationKeys"=dword:00000001
 "NoApplicationCursors"=dword:00000000
 "NoMouseReporting"=dword:00000000
 "NoRemoteResize"=dword:00000000
@@ -280,7 +280,7 @@ Windows Registry Editor Version 5.00
 "BackspaceIsDelete"=dword:00000000
 "RXVTHomeEnd"=dword:00000000
 "LinuxFunctionKeys"=dword:00000004
-"NoApplicationKeys"=dword:00000000
+"NoApplicationKeys"=dword:00000001
 "NoApplicationCursors"=dword:00000000
 "NoMouseReporting"=dword:00000000
 "NoRemoteResize"=dword:00000000
@@ -496,7 +496,7 @@ Windows Registry Editor Version 5.00
 "BackspaceIsDelete"=dword:00000000
 "RXVTHomeEnd"=dword:00000000
 "LinuxFunctionKeys"=dword:00000004
-"NoApplicationKeys"=dword:00000000
+"NoApplicationKeys"=dword:00000001
 "NoApplicationCursors"=dword:00000000
 "NoMouseReporting"=dword:00000000
 "NoRemoteResize"=dword:00000000
@@ -712,7 +712,7 @@ Windows Registry Editor Version 5.00
 "BackspaceIsDelete"=dword:00000000
 "RXVTHomeEnd"=dword:00000000
 "LinuxFunctionKeys"=dword:00000004
-"NoApplicationKeys"=dword:00000000
+"NoApplicationKeys"=dword:00000001
 "NoApplicationCursors"=dword:00000000
 "NoMouseReporting"=dword:00000000
 "NoRemoteResize"=dword:00000000
@@ -928,7 +928,7 @@ Windows Registry Editor Version 5.00
 "BackspaceIsDelete"=dword:00000000
 "RXVTHomeEnd"=dword:00000000
 "LinuxFunctionKeys"=dword:00000004
-"NoApplicationKeys"=dword:00000000
+"NoApplicationKeys"=dword:00000001
 "NoApplicationCursors"=dword:00000000
 "NoMouseReporting"=dword:00000000
 "NoRemoteResize"=dword:00000000
@@ -1144,7 +1144,7 @@ Windows Registry Editor Version 5.00
 "BackspaceIsDelete"=dword:00000000
 "RXVTHomeEnd"=dword:00000000
 "LinuxFunctionKeys"=dword:00000004
-"NoApplicationKeys"=dword:00000000
+"NoApplicationKeys"=dword:00000001
 "NoApplicationCursors"=dword:00000000
 "NoMouseReporting"=dword:00000000
 "NoRemoteResize"=dword:00000000
@@ -1360,7 +1360,7 @@ Windows Registry Editor Version 5.00
 "BackspaceIsDelete"=dword:00000000
 "RXVTHomeEnd"=dword:00000000
 "LinuxFunctionKeys"=dword:00000004
-"NoApplicationKeys"=dword:00000000
+"NoApplicationKeys"=dword:00000001
 "NoApplicationCursors"=dword:00000000
 "NoMouseReporting"=dword:00000000
 "NoRemoteResize"=dword:00000000
@@ -1576,7 +1576,7 @@ Windows Registry Editor Version 5.00
 "BackspaceIsDelete"=dword:00000000
 "RXVTHomeEnd"=dword:00000000
 "LinuxFunctionKeys"=dword:00000004
-"NoApplicationKeys"=dword:00000000
+"NoApplicationKeys"=dword:00000001
 "NoApplicationCursors"=dword:00000000
 "NoMouseReporting"=dword:00000000
 "NoRemoteResize"=dword:00000000
